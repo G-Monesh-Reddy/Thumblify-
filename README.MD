@@ -153,9 +153,9 @@ Users can generate new thumbnails, recreate existing designs with targeted modif
 | Groq API        | LLM-powered prompt optimization |
 | Pollinations AI | AI image generation             |
 
-## 📂 Project Structure
+## Project Structure
 
-
+```text
 Thumblify/
 │
 ├── client/
@@ -187,6 +187,7 @@ Thumblify/
 │
 ├── .gitignore
 └── README.md
+```
 
 ## 🚀 Getting Started
 
