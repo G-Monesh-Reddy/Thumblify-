@@ -1,6 +1,6 @@
 Copy the complete README below and paste it directly into your `README.md` file.
 
-````
+
 <div align="center">
 
 # 🚀 Thumblify – AI-Powered Thumbnail Generator
@@ -23,7 +23,7 @@ Copy the complete README below and paste it directly into your `README.md` file.
 
 </div>
 
----
+
 
 ## 📌 Overview
 
@@ -35,7 +35,7 @@ Users can generate new thumbnails, recreate existing designs with targeted modif
 
 **Topics:** `AI` `Generative AI` `Thumbnail Generator` `MERN Stack` `React` `Node.js` `Express.js` `MongoDB` `Groq` `Pollinations AI` `Prompt Engineering` `JWT Authentication` `REST API`
 
----
+
 
 ## 📑 Table of Contents
 
@@ -53,7 +53,7 @@ Users can generate new thumbnails, recreate existing designs with targeted modif
 - [Learning Outcomes](#-learning-outcomes)
 - [License](#-license)
 
----
+
 
 ## ✨ Key Features
 
@@ -69,7 +69,7 @@ Users can generate new thumbnails, recreate existing designs with targeted modif
 - 💾 **Persistent Storage:** Store user information and thumbnail metadata using MongoDB.
 - 📱 **Responsive Interface:** React-based interface designed for desktop and mobile screens.
 
----
+
 
 ## 🔄 Application Workflow
 
@@ -116,7 +116,7 @@ Users can generate new thumbnails, recreate existing designs with targeted modif
            v      v       v
           My   Community Download
       Generations Gallery
-````
+
 
 ## 🛠️ Tech Stack
 
