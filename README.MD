@@ -73,7 +73,7 @@ Users can generate new thumbnails, recreate existing designs with targeted modif
 
 ## 🔄 Application Workflow
 
-```text
+
                  User
                   |
                   v
@@ -155,7 +155,7 @@ Users can generate new thumbnails, recreate existing designs with targeted modif
 
 ## 📂 Project Structure
 
-```
+
 Thumblify/
 │
 ├── client/
@@ -187,7 +187,6 @@ Thumblify/
 │
 ├── .gitignore
 └── README.md
-```
 
 ## 🚀 Getting Started
 
